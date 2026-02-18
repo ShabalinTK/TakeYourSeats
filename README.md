@@ -1,9 +1,9 @@
-# Attendance Control System (ACS) — Web Application
+# Take Your Seats (TUS) — Web Application
 
 ## Welcome
 > *"Everything in software architecture is a trade-off. First Law of Software Architecture"*
 
-**ACS** — это веб-система для контроля посещаемости, использующая интерактивные карты рассадки и динамические QR-коды для верификации присутствия студентов в аудитории.
+**TUS** — это веб-система для контроля посещаемости, использующая интерактивные карты рассадки и динамические QR-коды для верификации присутствия студентов в аудитории.
 
 ---
 
